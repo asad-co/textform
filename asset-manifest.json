@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/textform/static/css/main.369c4e35.css",
+    "main.js": "/textform/static/js/main.6f98df94.js",
+    "static/media/Blonde.jpg": "/textform/static/media/Blonde.af2ed96f6aca1a046d36.jpg",
+    "static/media/Bruntte.jpg": "/textform/static/media/Bruntte.f87559255107346bd9b2.jpg",
+    "static/media/eye-color.jpg": "/textform/static/media/eye-color.919325648860aeef1741.jpg",
+    "static/media/Redhead.jpg": "/textform/static/media/Redhead.dff917440ed1238a2e54.jpg",
+    "static/media/Green.jpg": "/textform/static/media/Green.50a9afa89d13cbec0acb.jpg",
+    "static/media/Blue.jpg": "/textform/static/media/Blue.f2205f32248e7d10926a.jpg",
+    "static/media/Black.jpg": "/textform/static/media/Black.8a598cebee75a4cc99c9.jpg",
+    "static/media/Brown.jpg": "/textform/static/media/Brown.328fad4ad028849a67fb.jpg",
+    "index.html": "/textform/index.html",
+    "main.369c4e35.css.map": "/textform/static/css/main.369c4e35.css.map",
+    "main.6f98df94.js.map": "/textform/static/js/main.6f98df94.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.369c4e35.css",
+    "static/js/main.6f98df94.js"
+  ]
+}
